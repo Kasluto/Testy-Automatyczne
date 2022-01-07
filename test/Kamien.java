@@ -82,7 +82,7 @@ public class Kamien {
                 System.out.println("TO INNA LITERA");
 
         }
-
+//co to jest
         String pierwszy = "To jest początek zdania ";
         String drugi = "a to jego koniec";
         String trzeci = pierwszy + drugi;
